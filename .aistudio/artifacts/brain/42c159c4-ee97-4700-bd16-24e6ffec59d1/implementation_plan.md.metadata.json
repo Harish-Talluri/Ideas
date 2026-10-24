@@ -1,0 +1,6 @@
+{
+  "summary":  "Revised implementation plan incorporating custom external JD ingestion (LinkedIn, Naukri, career portals), granular role family filtering (e.g. Product Management PM/Sr PM/Staff PM hierarchy), and regional market localization (Bangalore, Hyderabad, Dubai, London, US/Global) adapting ATS resumes, interview customs, recruiter outreach, and salary compensation structures to specific geographical hubs.",
+  "updatedAt":  "2026-10-24T10:43:48.639994644Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}

@@ -1,0 +1,8 @@
+{
+  "name": "CareerPath AI — Regional Career & Job Command Center",
+  "description": "Intelligent career acceleration engine with external JD parser, tailored ATS resumes, direct recruiter contacts, localized interview prep, and salary negotiation for tech & product roles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
